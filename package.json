@@ -1,0 +1,14 @@
+{
+  "name": "doctero-hospital",
+  "version": "1.0.0",
+  "description": "Hospital Management System",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "build": "npm install"
+  },
+  "engines": {
+    "node": "20.x"
+  },
+  "dependencies": {}
+}

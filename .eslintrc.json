@@ -1,0 +1,13 @@
+{
+  "extends": ["react-app"],
+  "plugins": ["react"],
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  },
+  "rules": {
+    "no-unused-vars": "warn",
+    "react/prop-types": "off"
+  }
+} 
